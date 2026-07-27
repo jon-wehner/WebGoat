@@ -409,6 +409,12 @@
       <artifactId>spring-boot-starter-data-jpa-test</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.24.2</version>
+        <scope>compile</scope>
+    </dependency>
     <!-- Brings the MockMvc security auto-configuration that bridges @WithMockUser into MockMvc -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
