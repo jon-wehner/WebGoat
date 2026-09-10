@@ -290,7 +290,7 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-security</artifactId>
+      <artifactId>spring-boot-starter-security</artifloactId>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -412,7 +412,7 @@
     <dependency>
         <groupId>org.apache.logging.log4j</groupId>
         <artifactId>log4j-core</artifactId>
-        <version>2.24.2</version>
+        <version>2.24.3</version>
         <scope>compile</scope>
     </dependency>
     <!-- Brings the MockMvc security auto-configuration that bridges @WithMockUser into MockMvc -->
